@@ -1,24 +1,14 @@
 # BusRoll
 
-React + Vite responsive landing page and interactive frontend prototype for BusRoll, a college transportation venture.
+Smart College Bus Seat Booking Platform for Students.
 
-## Run
+## About
 
-npm install
-npm run dev
+BusRoll is a website designed to help college students access bus seat booking information easily.
 
-## Build
+## Technologies Used
 
-npm run build
-
-## Included
-- Responsive startup landing page
-- Bus availability demo
-- Roll-number booking flow
-- Full bus -> alternate bus suggestion
-- College demo request modal
-- FAQ accordion
-- Student and college pricing
-- Mobile responsive layout
-
-The availability values are sample prototype data. The ₹10,000/month college price is a financial planning assumption.
+- React
+- Vite
+- JavaScript
+- CSS
